@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/.github.io/Suprsend/static/css/main.9d511743.css",
+    "main.js": "/.github.io/Suprsend/static/js/main.808f024e.js",
+    "static/js/453.fe9ae727.chunk.js": "/.github.io/Suprsend/static/js/453.fe9ae727.chunk.js",
+    "index.html": "/.github.io/Suprsend/index.html",
+    "main.9d511743.css.map": "/.github.io/Suprsend/static/css/main.9d511743.css.map",
+    "main.808f024e.js.map": "/.github.io/Suprsend/static/js/main.808f024e.js.map",
+    "453.fe9ae727.chunk.js.map": "/.github.io/Suprsend/static/js/453.fe9ae727.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9d511743.css",
+    "static/js/main.808f024e.js"
+  ]
+}
