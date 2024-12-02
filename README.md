@@ -1,1 +1,1 @@
-link :https://hansrajs1.github.io/Suprsend/
+App link : https://hansrajs1.github.io/Suprsend/
