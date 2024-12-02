@@ -1,1 +1,1 @@
-link [https://hansrajs1.github.io/Suprsend/]
+link :https://hansrajs1.github.io/Suprsend/
